@@ -1,0 +1,12 @@
+C:\Users\Juan Carlos\AppData\Local\Temporary Projects\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\Juan Carlos\AppData\Local\Temporary Projects\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\Juan Carlos\AppData\Local\Temporary Projects\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\Juan Carlos\AppData\Local\Temporary Projects\Tarea2\obj\Debug\Tarea2.csprojResolveAssemblyReference.cache
+C:\Users\Juan Carlos\AppData\Local\Temporary Projects\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\Juan Carlos\AppData\Local\Temporary Projects\Tarea2\obj\Debug\Tarea2.pdb
+C:\Users\Juan Carlos\Desktop\UTEL\2 Bimestre\Algoritmos\Unidad2\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\Juan Carlos\Desktop\UTEL\2 Bimestre\Algoritmos\Unidad2\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\Juan Carlos\Desktop\UTEL\2 Bimestre\Algoritmos\Unidad2\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
+C:\Users\Juan Carlos\Desktop\UTEL\2 Bimestre\Algoritmos\Unidad2\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\Juan Carlos\Desktop\UTEL\2 Bimestre\Algoritmos\Unidad2\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\Juan Carlos\Desktop\UTEL\2 Bimestre\Algoritmos\Unidad2\Tarea2\Tarea2\obj\Debug\Tarea2.csprojResolveAssemblyReference.cache
