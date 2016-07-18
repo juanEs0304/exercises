@@ -20,6 +20,7 @@ namespace Tarea2
             try
             {
                 
+				
                 StreamReader sr = new StreamReader("frases.txt");
                 Console.WriteLine("Ingrese algunas frases");
                
